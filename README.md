@@ -1,4 +1,5 @@
 # Sales Analytics Dashboard (Tableau + MySQL)
+A data-driven sales dashboard built to improve reporting efficiency and support business decision-making.
 ![Dashboard](dashboard-preview.png.jpeg)
 ## 📌 Project Overview
 This project focuses on analyzing sales data of a hardware IT company using Tableau and MySQL. The goal was to replace manual Excel-based reporting with a centralized dashboard for better decision-making.
