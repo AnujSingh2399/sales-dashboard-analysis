@@ -30,3 +30,9 @@ Improved reporting efficiency and enabled faster, data-driven decision-making.
 
 ## ⚠️ Note
 This project uses simulated data for learning purposes.
+
+
+## 📌 How to Use
+- Open the dashboard image to view insights  
+- Analyze key metrics like revenue, sales trends, and market performance  
+- Identify top-performing markets and growth opportunities  
