@@ -1,4 +1,5 @@
 # Sales Analytics Dashboard (Tableau + MySQL)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/sales-dashboard-analysis)
 A data-driven sales dashboard built to improve reporting efficiency and support business decision-making.
 ![Dashboard](dashboard-preview.png.jpeg)
 ## 📌 Project Overview
