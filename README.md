@@ -1,5 +1,6 @@
 # Sales Analytics Dashboard (Tableau + MySQL)
-![GitHub repo size](https://github.com/your-username/excel-data-cleaning-project)
+![GitHub repo size](https://github.com/your-username/sales-dashboard-analysis)
+
 A data-driven sales dashboard built to improve reporting efficiency and support business decision-making.
 ![Dashboard](dashboard-preview.png.jpeg)
 ## 📌 Project Overview
